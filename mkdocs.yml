@@ -7,3 +7,4 @@ nav:
   - Inicio:
     - Welcome: index.md
   - Primeros Pasos: primeros-pasos.md
+  - Test: test.md
