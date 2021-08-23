@@ -1,0 +1,7 @@
+site_name: COTI
+site_url: https://docs.coti.mx/
+theme: readthedocs
+nav:
+  - Inicio:
+    - Welcome: index.md
+  - Primeros Pasos: primeros-pasos.md
