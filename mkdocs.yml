@@ -1,6 +1,6 @@
 site_name: COTI
 site_url: https://docs.coti.mx/
-theme: readthedocs
+theme: material
 docs_dir: source
 site_dir: docs 
 nav:
