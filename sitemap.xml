@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.coti.mx/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.coti.mx/como-funcionan/las-suscripciones/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.coti.mx/configuracion/personalizar-pdf/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.coti.mx/guias/agregar-usuario/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.coti.mx/primeros-pasos/moneda/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.coti.mx/primeros-pasos/registro/</loc>
+         <lastmod>2022-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
