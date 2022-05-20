@@ -2,9 +2,16 @@ site_name: COTI
 site_url: https://docs.coti.mx/
 theme: material
 docs_dir: source
-site_dir: docs 
+site_dir: docs
 nav:
   - Inicio:
-    - Welcome: index.md
-  - Primeros Pasos: primeros-pasos.md
-  - Test: test.md
+    - Documentación de COTI: index.md
+  - Primeros Pasos:
+    - Registro: primeros-pasos/registro.md
+    - Cambiar tu moneda: primeros-pasos/moneda.md
+  - Guías paso a paso:
+    - Agregar usuario: guias/agregar-usuario.md
+  - Configuraciones:
+    - personalizar PDF : configuracion/personalizar-pdf.md
+  - Como funciona: 
+    - Las suscripciones: como-funcionan/las-suscripciones.md
