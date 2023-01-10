@@ -13,6 +13,6 @@ Bienvenido a la documentación oficial de [COTI](https://coti.mx/)
 ## Como funciona
 
 
-## Ayuda / Contacto
+## Otros
 
 [Ayuda / Contacto](/contacto/)
