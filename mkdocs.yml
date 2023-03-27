@@ -9,6 +9,7 @@ nav:
   - Primeros Pasos:
     - Registro: primeros-pasos/registro.md
     - Cambiar tu moneda: primeros-pasos/moneda.md
+    - Agregar Impuestos: primeros-pasos/impuestos.md
   - Guías paso a paso:
     - Agregar usuario: guias/agregar-usuario.md
   - Configuraciones:
