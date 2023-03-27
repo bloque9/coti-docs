@@ -1,4 +1,4 @@
-# Como agregar un usuario al tu empresa
+# Como agregar un usuario a tu empresa
 
 1. Ingresar a __[Configuración > Accesos](https://app.coti.mx/settings/access/)__
 
