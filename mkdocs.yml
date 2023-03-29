@@ -3,6 +3,8 @@ site_url: https://docs.coti.mx/
 theme: material
 docs_dir: source
 site_dir: docs
+plugins:
+  - glightbox
 nav:
   - Inicio:
     - Documentación de COTI: index.md
