@@ -5,7 +5,7 @@ La documentación utiliza [mkdocs-material](https://squidfunk.github.io/mkdocs-m
 ## Instalación
 
 ```bash
-pip install mkdocs-material
+pip install mkdocs-material mkdocs-glightbox
 ```
 
 ## Uso
